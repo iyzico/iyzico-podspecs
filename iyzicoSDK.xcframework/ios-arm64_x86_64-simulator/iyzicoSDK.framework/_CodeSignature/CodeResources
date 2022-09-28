@@ -36,13 +36,41 @@
 		<data>
 		uI86sSRpbbqgf2/tM9Ga18UrnYc=
 		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/Info.plist</key>
+		<data>
+		26B3eegx0KY2EUvzEe5wRec6VYc=
+		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/Pods_iyzicoSDK</key>
+		<data>
+		xI6QPQ96q7/dzVmTOTFzelpPwsk=
+		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeDirectory</key>
+		<data>
+		HpIq5yUN7yRZdca4rsFS2V9xwQw=
+		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		r0hJpXonS/oy5obAUPdZAVyxr2o=
+		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Xn1C1vk/p615yTSRfeHgUrWDtK0=
+		</data>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
 		<key>Headers/iyzicoSDK-Swift.h</key>
 		<data>
-		toIvsPqN1AtiJ8d+OxqfaviQA+E=
+		xm0CHLJQH03CAqs+rNbPq1XD1Hk=
 		</data>
 		<key>Headers/iyzicoSDK.h</key>
 		<data>
-		01piHVu0KwGrOkcH+sM4n/N/zAo=
+		d6zvgCT//ROTq8a8CSwMht9Bn0c=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -186,51 +214,51 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wHWDK8NR4QaAhZhLLqED9g4uRAA=
+		CwjCPDSyD53sBy5wWMLUKvcOEHU=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Wjys86Mjc4gQVi1DUGrGz/kgkh8=
+		OXENbBNW2KLpxv4pRcPKFeF/sQs=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PNm3C/Z2YRQQHCrqHG15jWdRAR0=
+		m1iqEx4y4WPDQFxBnD/0IlmYcQA=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		wHWDK8NR4QaAhZhLLqED9g4uRAA=
+		CwjCPDSyD53sBy5wWMLUKvcOEHU=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Wjys86Mjc4gQVi1DUGrGz/kgkh8=
+		OXENbBNW2KLpxv4pRcPKFeF/sQs=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		PNm3C/Z2YRQQHCrqHG15jWdRAR0=
+		m1iqEx4y4WPDQFxBnD/0IlmYcQA=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		k4xjxpM3d6SyQqoUBEcDKeEV3NI=
+		GDcgf2DFoLZnf3U2oMvq5fcVgXU=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		If6RQ9V6St/MbvyzTseFtgawMJ0=
+		JV/ncv99OWOOnYGwLH9OEhZr3Ws=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FgpIi5IeBF0+UGAbVM10i62OtRY=
+		o5jNHfAiMKehTcfEUa5b8gpkiXw=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		k4xjxpM3d6SyQqoUBEcDKeEV3NI=
+		GDcgf2DFoLZnf3U2oMvq5fcVgXU=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		If6RQ9V6St/MbvyzTseFtgawMJ0=
+		JV/ncv99OWOOnYGwLH9OEhZr3Ws=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		FgpIi5IeBF0+UGAbVM10i62OtRY=
+		o5jNHfAiMKehTcfEUa5b8gpkiXw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -377,18 +405,67 @@
 			ZBqFbhmT5QsxOkUpvcIVUGxFVO0ssPpax/nq/7Vgea4=
 			</data>
 		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YdinL0f+QDDtiqt4xieTa0IjT/FRX76jmubRNydaeZ0=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/Pods_iyzicoSDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pBvzQ5RayfBhyWGMgZECEM28EB1cjEaGbTZCtP7go84=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cEsfnmseumt0qoJDQcrcgxUarszctpstLZQdBcsfD+Y=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dhTG5MsV8vWYgiqcVMPT4TSpPjZMzaAdQa2d3BmXIcQ=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wPYFC9Wx7gtjPVb8uM2/euvZR6wejIbvZb0wgMdLkYc=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_iyzicoSDK.framework/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
 		<key>Headers/iyzicoSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iQTAjI9kCPU5WwF9+cx29xXdxfoV0VD18s0lXDIuMDA=
+			yoMqGQn93hq0slwemCsYRL9cClJNvDgkCG/4LZ++GpI=
 			</data>
 		</dict>
 		<key>Headers/iyzicoSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			prrMX4vMzUKUkFzeTxV/hJ4/Qn+rdQJfhgp6XMagbwQ=
+			U1KwYfWeEOAVrt6aq3Ae6C+tc1TdNn4CPLNe+YajEm8=
 			</data>
 		</dict>
 		<key>InfoCell.nib</key>
@@ -633,84 +710,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			guLML65ccSxe1TtFxeOqethGoRgMv2RYMfQ3QQSVJFw=
+			n8k8f23rHc4YzTlBfWXBqRWGeo7GzqdZcT/afdG+EsE=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wrh/W2AEdOKCTrq21OZvnY+Nmgu3W+uAlT4fFuFF7jg=
+			P5KfXBnbwPB6AtsKEMH2rLEZbf3/gKjhAO7BXv0AYTs=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fTrjceV+u+kGq5nnJ/uZsauI9pd0FwAehv/uOX0Doc=
+			jWk8PobOzJEy3ws74xOk6EmCcliizOE578sRbHqyvrM=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			guLML65ccSxe1TtFxeOqethGoRgMv2RYMfQ3QQSVJFw=
+			n8k8f23rHc4YzTlBfWXBqRWGeo7GzqdZcT/afdG+EsE=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wrh/W2AEdOKCTrq21OZvnY+Nmgu3W+uAlT4fFuFF7jg=
+			P5KfXBnbwPB6AtsKEMH2rLEZbf3/gKjhAO7BXv0AYTs=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fTrjceV+u+kGq5nnJ/uZsauI9pd0FwAehv/uOX0Doc=
+			jWk8PobOzJEy3ws74xOk6EmCcliizOE578sRbHqyvrM=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AojI50G399wnyXX7xOKIEtS9GzUP18JrMeqcgLQgnNw=
+			WLD5XILRcq//BbDa0sqUpMpIFTvO6HqfGOA0QQ+I0T4=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j6cO61YP4u9DOs6lrnkFwlVNLDmlTT0B0J5dUL8G5i4=
+			OH+UIswg6Z/L6i5VYzg1lgyAhXwFc5pfdBZhKLIlZS0=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFMLr/g/Xl59wNp7TOPPLF+VwkpymicDz0KTZNvP8SA=
+			mS+bGAVzFe4ZhdZuvT8SC/HAcgfmQ5ZgWlJk5QV5lBA=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AojI50G399wnyXX7xOKIEtS9GzUP18JrMeqcgLQgnNw=
+			WLD5XILRcq//BbDa0sqUpMpIFTvO6HqfGOA0QQ+I0T4=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j6cO61YP4u9DOs6lrnkFwlVNLDmlTT0B0J5dUL8G5i4=
+			OH+UIswg6Z/L6i5VYzg1lgyAhXwFc5pfdBZhKLIlZS0=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFMLr/g/Xl59wNp7TOPPLF+VwkpymicDz0KTZNvP8SA=
+			mS+bGAVzFe4ZhdZuvT8SC/HAcgfmQ5ZgWlJk5QV5lBA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
