@@ -188,7 +188,7 @@ extension UIKit.UILabel {
 @objc public class IyzicoBasketItem : ObjectiveC.NSObject {
   final public let id: Swift.String?, price: Swift.String?, name: Swift.String?, category1: Swift.String?
   final public let itemType: Swift.String?, subMerchantKey: Swift.String?, subMerchantPrice: Swift.String?
-  public init(itemCategory: Swift.String, productId: Swift.String?, itemType: Swift.String, itemName: Swift.String, price: Swift.String?, subMerchantKey: Swift.String?, subMerchantPrice: Swift.String?)
+  @objc public init(itemCategory: Swift.String, productId: Swift.String?, itemType: Swift.String, itemName: Swift.String, price: Swift.String?, subMerchantKey: Swift.String?, subMerchantPrice: Swift.String?)
   @objc deinit
 }
 @objc public protocol IyzicoDelegate {

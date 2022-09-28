@@ -255,6 +255,7 @@ enum Language : NSInteger;
 
 SWIFT_CLASS("_TtC9iyzicoSDK16IyzicoBasketItem")
 @interface IyzicoBasketItem : NSObject
+- (nonnull instancetype)initWithItemCategory:(NSString * _Nonnull)itemCategory productId:(NSString * _Nullable)productId itemType:(NSString * _Nonnull)itemType itemName:(NSString * _Nonnull)itemName price:(NSString * _Nullable)price subMerchantKey:(NSString * _Nullable)subMerchantKey subMerchantPrice:(NSString * _Nullable)subMerchantPrice OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
