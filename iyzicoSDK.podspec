@@ -17,7 +17,6 @@ Pod::Spec.new do |s|
   s.exclude_files = "Classes/Exclude"
 
   s.dependency 'Alamofire', '~> 5.4.1'
-  s.dependency 'IQKeyboardManagerSwift', '~> 6.5.6'
   s.dependency 'lottie-ios', '~> 3.2.1'
   s.dependency 'SVGKit', '~> 3.0.0'
   s.dependency 'CocoaLumberjack/Core', '~> 3.7.2'

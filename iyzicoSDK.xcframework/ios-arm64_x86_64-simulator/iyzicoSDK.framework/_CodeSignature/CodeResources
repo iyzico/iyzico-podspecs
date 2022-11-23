@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		9CiRTAcOZbxKpKXAw4zx3zXLzEk=
+		B/LzxVoS1uhPxVc5Syz9/kV5bVc=
 		</data>
 		<key>BankCell.nib</key>
 		<data>
@@ -38,15 +38,15 @@
 		</data>
 		<key>Headers/iyzicoSDK-Swift.h</key>
 		<data>
-		Zf8xj9q5mDIlO7TSwL3+5nVTpUo=
+		toIvsPqN1AtiJ8d+OxqfaviQA+E=
 		</data>
 		<key>Headers/iyzicoSDK.h</key>
 		<data>
-		2NVyBhRu4s/kLY/IoqZY3Eg7I7o=
+		ZNOAxeKxMC9LRzZ44ula00j1dH8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		v+U4MlS3mzIMKf2UgT4WnSLSXNA=
+		sovfIsQIMFiT3tE1nFzMpoWOqIE=
 		</data>
 		<key>InfoCell.nib</key>
 		<data>
@@ -186,51 +186,51 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CwjCPDSyD53sBy5wWMLUKvcOEHU=
+		wHWDK8NR4QaAhZhLLqED9g4uRAA=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		vkXyb09bAgqYoR53yoPq6KrymJs=
+		Wjys86Mjc4gQVi1DUGrGz/kgkh8=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Icu0PpXKBbo+2dw99XKqE54hT3w=
+		PNm3C/Z2YRQQHCrqHG15jWdRAR0=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		CwjCPDSyD53sBy5wWMLUKvcOEHU=
+		wHWDK8NR4QaAhZhLLqED9g4uRAA=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		vkXyb09bAgqYoR53yoPq6KrymJs=
+		Wjys86Mjc4gQVi1DUGrGz/kgkh8=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Icu0PpXKBbo+2dw99XKqE54hT3w=
+		PNm3C/Z2YRQQHCrqHG15jWdRAR0=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GDcgf2DFoLZnf3U2oMvq5fcVgXU=
+		k4xjxpM3d6SyQqoUBEcDKeEV3NI=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KJ2mVWg3riFN2KN1uzBoCxTFJ48=
+		If6RQ9V6St/MbvyzTseFtgawMJ0=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		taVy5/TnVUqSZXs0Dn/bGlmhVqs=
+		FgpIi5IeBF0+UGAbVM10i62OtRY=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		GDcgf2DFoLZnf3U2oMvq5fcVgXU=
+		k4xjxpM3d6SyQqoUBEcDKeEV3NI=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		KJ2mVWg3riFN2KN1uzBoCxTFJ48=
+		If6RQ9V6St/MbvyzTseFtgawMJ0=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		taVy5/TnVUqSZXs0Dn/bGlmhVqs=
+		FgpIi5IeBF0+UGAbVM10i62OtRY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -288,7 +288,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rN/ATIcXqNUqggJK7RvpyVM1sg4=
+			5oxeTE1fBGxr0eT4mO5NTFUKn2s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -313,7 +313,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BuRODJWkadA28quPwjoXzdvuRVk=
+			S76TJ8edaauGiIQkUB/SgZ+jdc4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -332,7 +332,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H1FUf+5U+VgvcCYo4jm2VBYYNBaVHSUzTEbKmdD29TI=
+			cknAEe8nsjxbkKruRjSlhdJClEinRQ3nhc0ZS3N+yrY=
 			</data>
 		</dict>
 		<key>BankCell.nib</key>
@@ -381,14 +381,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zL6qkCJ0r+zrZZ3AJICyQwoiizqFthSQjzxOV4Bk7EQ=
+			iQTAjI9kCPU5WwF9+cx29xXdxfoV0VD18s0lXDIuMDA=
 			</data>
 		</dict>
 		<key>Headers/iyzicoSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wRzYdaYvAxW+M5xwJyGfmKM5Ta1rEBNoCaibqnN/dgM=
+			cWvnbuUrl+EDLv5MvUJ6OVMBHTabZpSDBhX0qcHERX4=
 			</data>
 		</dict>
 		<key>InfoCell.nib</key>
@@ -633,84 +633,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n8k8f23rHc4YzTlBfWXBqRWGeo7GzqdZcT/afdG+EsE=
+			guLML65ccSxe1TtFxeOqethGoRgMv2RYMfQ3QQSVJFw=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6MtGEMsljrYhP+onRFfX7oq9H07hit8DkVkG2LYQSs=
+			Wrh/W2AEdOKCTrq21OZvnY+Nmgu3W+uAlT4fFuFF7jg=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iaL2d+0+z3hBjuD2NSl4PZ/+ajdIJereboe6wgo0G4w=
+			6fTrjceV+u+kGq5nnJ/uZsauI9pd0FwAehv/uOX0Doc=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n8k8f23rHc4YzTlBfWXBqRWGeo7GzqdZcT/afdG+EsE=
+			guLML65ccSxe1TtFxeOqethGoRgMv2RYMfQ3QQSVJFw=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V6MtGEMsljrYhP+onRFfX7oq9H07hit8DkVkG2LYQSs=
+			Wrh/W2AEdOKCTrq21OZvnY+Nmgu3W+uAlT4fFuFF7jg=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iaL2d+0+z3hBjuD2NSl4PZ/+ajdIJereboe6wgo0G4w=
+			6fTrjceV+u+kGq5nnJ/uZsauI9pd0FwAehv/uOX0Doc=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLD5XILRcq//BbDa0sqUpMpIFTvO6HqfGOA0QQ+I0T4=
+			AojI50G399wnyXX7xOKIEtS9GzUP18JrMeqcgLQgnNw=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z9IHCTi+Bc2BtvtqWvlWMyWDv1ZNXgP0DZjoJRuAGX0=
+			j6cO61YP4u9DOs6lrnkFwlVNLDmlTT0B0J5dUL8G5i4=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vftECS7iNh/ZRRsXSRQ3SvJDp4rIgYlpn9ZO53RMjcA=
+			BFMLr/g/Xl59wNp7TOPPLF+VwkpymicDz0KTZNvP8SA=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLD5XILRcq//BbDa0sqUpMpIFTvO6HqfGOA0QQ+I0T4=
+			AojI50G399wnyXX7xOKIEtS9GzUP18JrMeqcgLQgnNw=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z9IHCTi+Bc2BtvtqWvlWMyWDv1ZNXgP0DZjoJRuAGX0=
+			j6cO61YP4u9DOs6lrnkFwlVNLDmlTT0B0J5dUL8G5i4=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vftECS7iNh/ZRRsXSRQ3SvJDp4rIgYlpn9ZO53RMjcA=
+			BFMLr/g/Xl59wNp7TOPPLF+VwkpymicDz0KTZNvP8SA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -808,7 +808,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8gzQVW5ZCizQUjusy5LGGvb7gyi9XsDLNpwUeLYQ2W0=
+			nenBRN7S5drjibNdK6QbEIz+WSOPBaPceXtIQNg+NXc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -845,7 +845,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2WpJ0U//jVlO2IidkigEr5GK2MEIYZxtJTka9tAwJnA=
+			wfyUlpz851FnzEPJ0JOUHO+1iRDGb54TTMZZx4DToDU=
 			</data>
 			<key>optional</key>
 			<true/>

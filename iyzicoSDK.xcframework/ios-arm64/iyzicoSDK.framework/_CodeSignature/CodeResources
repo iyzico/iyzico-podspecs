@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		JKoZVacleLkr49qzFwVHMUhzt58=
+		8PG/a5PfBOT0Iar7xGLegeYbvD8=
 		</data>
 		<key>BankCell.nib</key>
 		<data>
@@ -38,15 +38,15 @@
 		</data>
 		<key>Headers/iyzicoSDK-Swift.h</key>
 		<data>
-		aytrjjZLBnuet3IoYfj/2+Kjk7A=
+		jNPC6gsT0NFW5oegfVck6Yoyx14=
 		</data>
 		<key>Headers/iyzicoSDK.h</key>
 		<data>
-		2NVyBhRu4s/kLY/IoqZY3Eg7I7o=
+		ZNOAxeKxMC9LRzZ44ula00j1dH8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IHZIO/BZf0Oqp8tB7toX8odbzks=
+		vAAEu8nM8tWaggmMnkQucV67N/s=
 		</data>
 		<key>InfoCell.nib</key>
 		<data>
@@ -186,27 +186,27 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		1F03yBzRw5GnNjpsJVVxBBvMUE0=
+		0usBow4EeNSMxc0W9dw7wcinTi8=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UN55qG9n1iTmJK++TfbryINT6S0=
+		X8dqMv0CIjIwQ05JsNwTI+zJq5s=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vHjVl1srL7LEZXaZ1DBAqohTwa0=
+		zUO65Ii/KGsKG1XGO70sixnkevw=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		1F03yBzRw5GnNjpsJVVxBBvMUE0=
+		0usBow4EeNSMxc0W9dw7wcinTi8=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		UN55qG9n1iTmJK++TfbryINT6S0=
+		X8dqMv0CIjIwQ05JsNwTI+zJq5s=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vHjVl1srL7LEZXaZ1DBAqohTwa0=
+		zUO65Ii/KGsKG1XGO70sixnkevw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -264,7 +264,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rN/ATIcXqNUqggJK7RvpyVM1sg4=
+			5oxeTE1fBGxr0eT4mO5NTFUKn2s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -289,7 +289,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BuRODJWkadA28quPwjoXzdvuRVk=
+			S76TJ8edaauGiIQkUB/SgZ+jdc4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -308,7 +308,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K38eMQPuAspVwlHL029ly8qW/4OvGg0MSoQBvdgoqEo=
+			pewIbWpS9f83jdiK5KJyrnnLtNlv3+/HoeMkJ5I21Ik=
 			</data>
 		</dict>
 		<key>BankCell.nib</key>
@@ -357,14 +357,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9UYBkyb6Z4WqbNcfub5+1V9aucp6t4RoTxqyONCqwLk=
+			GTRDVYO8TScZWGOmKx46oopXEm/yzRz2XU2kZQa5p7I=
 			</data>
 		</dict>
 		<key>Headers/iyzicoSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wRzYdaYvAxW+M5xwJyGfmKM5Ta1rEBNoCaibqnN/dgM=
+			cWvnbuUrl+EDLv5MvUJ6OVMBHTabZpSDBhX0qcHERX4=
 			</data>
 		</dict>
 		<key>InfoCell.nib</key>
@@ -609,42 +609,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+/aCvElIS78Hw2aVRSuBkv3f3Zp785hTqSPV3OhgKic=
+			1/z67F2w+11TbF1S9IVtdqc9EdKEeEzpOIjznrb4sak=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LL2uU/1ILuo5vWvACbNrjqGBF665Ry/qXRmYkS/jiqA=
+			9lxK6BQUNGrcYjqZNNG4lMpFs1rzSppEmdOpZxF6WIo=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW6zVm5BAYuTCXgwuaqUvtgGWFmwP9Gly8Lk2phwq6A=
+			P/unL6BoCrf74fObfVnGb3iD/wWIOpOd6m0k4PA1ia0=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+/aCvElIS78Hw2aVRSuBkv3f3Zp785hTqSPV3OhgKic=
+			1/z67F2w+11TbF1S9IVtdqc9EdKEeEzpOIjznrb4sak=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LL2uU/1ILuo5vWvACbNrjqGBF665Ry/qXRmYkS/jiqA=
+			9lxK6BQUNGrcYjqZNNG4lMpFs1rzSppEmdOpZxF6WIo=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW6zVm5BAYuTCXgwuaqUvtgGWFmwP9Gly8Lk2phwq6A=
+			P/unL6BoCrf74fObfVnGb3iD/wWIOpOd6m0k4PA1ia0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -742,7 +742,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8gzQVW5ZCizQUjusy5LGGvb7gyi9XsDLNpwUeLYQ2W0=
+			nenBRN7S5drjibNdK6QbEIz+WSOPBaPceXtIQNg+NXc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -779,7 +779,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2WpJ0U//jVlO2IidkigEr5GK2MEIYZxtJTka9tAwJnA=
+			wfyUlpz851FnzEPJ0JOUHO+1iRDGb54TTMZZx4DToDU=
 			</data>
 			<key>optional</key>
 			<true/>
