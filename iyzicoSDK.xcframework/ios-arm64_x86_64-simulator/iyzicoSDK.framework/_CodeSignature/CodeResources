@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		B/LzxVoS1uhPxVc5Syz9/kV5bVc=
+		jY0CCavoTrwVHXOfOygz7Xxq7sU=
 		</data>
 		<key>BankCell.nib</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PNm3C/Z2YRQQHCrqHG15jWdRAR0=
+		kvmPTsvQ+Lv9qv+e9YsuHWUU184=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		PNm3C/Z2YRQQHCrqHG15jWdRAR0=
+		kvmPTsvQ+Lv9qv+e9YsuHWUU184=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FgpIi5IeBF0+UGAbVM10i62OtRY=
+		HtIFtwJ0PEl1b+MP8N+nF/HfVwo=
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		FgpIi5IeBF0+UGAbVM10i62OtRY=
+		HtIFtwJ0PEl1b+MP8N+nF/HfVwo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -332,7 +332,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cknAEe8nsjxbkKruRjSlhdJClEinRQ3nhc0ZS3N+yrY=
+			5Uqi02+KF1eTR/CUoxlK7gc2Gtdelf7Dj4oCUz16ZiY=
 			</data>
 		</dict>
 		<key>BankCell.nib</key>
@@ -647,7 +647,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fTrjceV+u+kGq5nnJ/uZsauI9pd0FwAehv/uOX0Doc=
+			n2ojxQZTTkX16GkiuSRF4hQx29gxDzL+Xbi/XRkIMlQ=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/arm64.swiftdoc</key>
@@ -668,7 +668,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fTrjceV+u+kGq5nnJ/uZsauI9pd0FwAehv/uOX0Doc=
+			n2ojxQZTTkX16GkiuSRF4hQx29gxDzL+Xbi/XRkIMlQ=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -689,7 +689,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFMLr/g/Xl59wNp7TOPPLF+VwkpymicDz0KTZNvP8SA=
+			OjFPE2CGSMV8269FFwIAZ2XuNDVrBSyQNab5cq/BsVE=
 			</data>
 		</dict>
 		<key>Modules/iyzicoSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -710,7 +710,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFMLr/g/Xl59wNp7TOPPLF+VwkpymicDz0KTZNvP8SA=
+			OjFPE2CGSMV8269FFwIAZ2XuNDVrBSyQNab5cq/BsVE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
